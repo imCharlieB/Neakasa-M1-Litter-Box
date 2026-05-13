@@ -1,0 +1,7 @@
+{
+  "name": "Neakasa M1 Litter Box",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": "US",
+  "homeassistant": ">=2023.0.0"
+}
