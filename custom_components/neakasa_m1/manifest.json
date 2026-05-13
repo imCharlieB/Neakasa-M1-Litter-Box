@@ -1,0 +1,9 @@
+{
+  "domain": "neakasa_m1",
+  "name": "Neakasa M1 Litter Box",
+  "version": "0.1.0",
+  "documentation": "https://https://github.com/imCharlieB/Neakasa-M1-Litter-Box",
+  "requirements": ["aiohttp"],
+  "dependencies": [],
+  "codeowners": ["@imCharlieB"]
+}
