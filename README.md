@@ -1,3 +1,9 @@
+# Neakasa M1 Litter Box Home Assistant Integration
+
+**A custom Home Assistant integration for the Neakasa M1 smart litter box.**
+
+Easily manage your Neakasa M1, track cat activity, view statistics, and control your litter box from Home Assistant. Supports advanced cat management, avatars, and a beautiful Lovelace dashboard card. HACS compatible for easy installation and updates.
+
 # Neakasa M1 Home Assistant Integration
 
 A custom Home Assistant integration for the Neakasa M1 smart litter box, supporting advanced cat management, activity tracking, and device control.
